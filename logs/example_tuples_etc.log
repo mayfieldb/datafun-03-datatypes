@@ -1,0 +1,33 @@
+2023-09-05 10:42:55,579 =============================================================
+2023-09-05 10:42:55,579 =============================================================
+2023-09-05 10:42:55,580 Today is 2023-09-05 at 10:42 AM
+2023-09-05 10:42:55,580 This file is running on: posix Linux 5.15.112-19404-g55fe7e355056
+2023-09-05 10:42:55,580 The Python version is: 3.11.4
+2023-09-05 10:42:55,580 The active conda environment is:  None
+2023-09-05 10:42:55,580 The active pip environment is:    None
+2023-09-05 10:42:55,580 The active environment path is:   /home/mayfieldbetsy/.cache/activestate/c5b7dbf7/usr
+2023-09-05 10:42:55,580 The current working directory is: /home/mayfieldbetsy/Documents/datafun-03-datatypes
+2023-09-05 10:42:55,580 This source file is in:           /home/mayfieldbetsy/Documents/datafun-03-datatypes
+2023-09-05 10:42:55,580 =============================================================
+2023-09-05 10:42:55,580 =============================================================
+2023-09-05 10:42:55,580 Calling functions from main block
+2023-09-05 10:42:55,580 tupleA = (1, 2, 3, 4, 5)
+2023-09-05 10:42:55,580 tupleB = (4, 5, 6, 7, 8)
+2023-09-05 10:42:55,580 tupleA = (1, 2, 3, 4, 5)
+2023-09-05 10:42:55,580 tupleB = (4, 5, 6, 7, 8)
+2023-09-05 10:42:55,580 tupleCat = (1, 2, 3, 4, 5, 4, 5, 6, 7, 8)
+2023-09-05 10:42:55,580 tupleAThrice = (1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 1, 2, 3, 4, 5)
+2023-09-05 10:42:55,580 Quotient: 3, Remainder: 1
+2023-09-05 10:42:55,580 setA = {1, 2, 3, 4, 5}
+2023-09-05 10:42:55,580 setB = {4, 5, 6, 7, 8}
+2023-09-05 10:42:55,580 dogA_dict = {'name': 'Rex', 'age': 2, 'weight_kg': 13.4}
+2023-09-05 10:42:55,580 dogB_dict = {'name': 'Fido', 'age': 3, 'weight_kg': 15.2}
+2023-09-05 10:42:55,581 assessment_dict = {'low': 0, 'medium': 1, 'high': 2}
+2023-09-05 10:42:55,581 data_dict = {'name': ['Alice', 'Bob', 'Charlie', 'David'], 'age': [25, 30, 35, 40], 'income': [50000, 60000, 70000, 80000]}
+2023-09-05 10:42:55,581 Word count is a good way to begin processing text.
+2023-09-05 10:42:55,581 Given text_simple.txt, the word_counts_dict = {'One': 1, 'fish': 3, 'two': 1, 'red': 1, 'blue': 1, 'fish.': 1}
+2023-09-05 10:42:55,581 Given text_simple.txt and comprehensions,
+2023-09-05 10:42:55,581 the the word_counts_dict2 = {'One': 1, 'fish': 3, 'two': 1, 'red': 1, 'blue': 1, 'fish.': 1}
+2023-09-05 10:42:55,581 Add more logging statements to the code to see what happens.
+2023-09-05 10:42:55,581 Explore enough to understand.
+2023-09-05 10:42:55,581 Apply these skills to your own topic domain.

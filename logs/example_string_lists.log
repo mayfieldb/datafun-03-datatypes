@@ -1,0 +1,24 @@
+2023-09-05 10:42:05,656 =============================================================
+2023-09-05 10:42:05,657 =============================================================
+2023-09-05 10:42:05,657 Today is 2023-09-05 at 10:42 AM
+2023-09-05 10:42:05,657 This file is running on: posix Linux 5.15.112-19404-g55fe7e355056
+2023-09-05 10:42:05,657 The Python version is: 3.11.4
+2023-09-05 10:42:05,658 The active conda environment is:  None
+2023-09-05 10:42:05,658 The active pip environment is:    None
+2023-09-05 10:42:05,658 The active environment path is:   /home/mayfieldbetsy/.cache/activestate/c5b7dbf7/usr
+2023-09-05 10:42:05,658 The current working directory is: /home/mayfieldbetsy/Documents/datafun-03-datatypes
+2023-09-05 10:42:05,658 This source file is in:           /home/mayfieldbetsy/Documents/datafun-03-datatypes
+2023-09-05 10:42:05,659 =============================================================
+2023-09-05 10:42:05,659 =============================================================
+2023-09-05 10:42:05,659 Calling functions from main block
+2023-09-05 10:42:05,659 Calling process_text_woodchuck()
+2023-09-05 10:42:05,659 The list of words is: ['How', 'much', 'wood', 'would', 'a', 'woodchuck', 'chuck', 'if', 'a', 'woodchuck', 'could', 'chuck', 'wood?', 'He', 'would', 'chuck,', 'he', 'would,', 'as', 'much', 'as', 'he', 'could,', 'and', 'chuck', 'as', 'much', 'wood', 'as', 'a', 'woodchuck', 'would', 'if', 'a', 'woodchuck', 'could', 'chuck', 'wood.']
+2023-09-05 10:42:05,660 There are 38 words in the file.
+2023-09-05 10:42:05,660 The set of unique words is: {'could', 'could,', 'chuck,', 'wood?', 'chuck', 'would,', 'he', 'if', 'a', 'would', 'He', 'woodchuck', 'wood', 'as', 'wood.', 'much', 'and', 'How'}
+2023-09-05 10:42:05,660 There are 18 unique words in the file.
+2023-09-05 10:42:05,660 Calling create_random_sentence()
+2023-09-05 10:42:05,660 Random sentence: The scared snake flies scaredly.
+2023-09-05 10:42:05,660 Calling create_random_sentence()
+2023-09-05 10:42:05,661 Random sentence: The confused mouse crawls scaredly.
+2023-09-05 10:42:05,661 Calling play_game()
+2023-09-05 10:42:05,661 ready_for_continous_game = True
